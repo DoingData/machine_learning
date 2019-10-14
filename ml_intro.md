@@ -13,3 +13,18 @@ Machine Learning is a subset of arificial intelligence. it focuses mainly on des
 ### How does machine learning works?
 
 how does it work?
+
+
+
+
+
+### Neural Networks
+
+##### Gradient descent in neural network
+
+- weighted sum
+- bias
+- Sigmayed 
+- ReLu
+- Cost Function
+- 
