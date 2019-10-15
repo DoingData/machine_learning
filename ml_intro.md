@@ -27,4 +27,4 @@ how does it work?
 - Sigmayed 
 - ReLu
 - Cost Function
-- 
+
