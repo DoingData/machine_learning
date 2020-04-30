@@ -25,9 +25,9 @@ In 1990's Machine learning applications in *data mining, adaptive software and w
 
 In 2000's the new millenium brought an explosion of *adaptive programming*. Anywhere adaptive programs are needed, machine learning  is there. These programs are capable of recognizihng patterns, learning from experience, abstracting new information from data, and optimizing the efficiency and accuracy of its processing and output.
 
-## Time Line of MACHINE LEARNING History 
+## Time Line of Machine Learning History 
 
-![Sample diagram](assets/history_of_ml.svg)
+![Sample diagram](edited_assets/history_of_ml)
 
 
 # Machine Learning: 
@@ -44,14 +44,14 @@ Machine learning is an application of artificial intelligence (AI) that provides
 
 ## Types of Machine Learning
 
-![Sample Diagram](assets/types_of_learning_algorithim.svg)
+![Sample Diagram](edited_assets/ml_1)
 
 ### Supervised machine learning 
 
 These algorithms can apply what has been learned in the past to new data using labeled examples to predict future events. Starting from the analysis of a known training dataset, the learning algorithm produces an inferred function to make predictions about the output values. The system is able to provide targets for any new input after sufficient training. The learning algorithm can also compare its output with the correct, intended output and find errors in order to modify the model accordingly.
 
 
-![Types of Learning Algorithims](assets/ml_algo_types.svg)
+![Sample Diagram](edited_assets/ml_2.svg)
 
 #### Examples
 1. If the input is an audio clip, and the AI's job is to output the text transcript, then this is speech recognition.
@@ -71,13 +71,13 @@ These algorithms can apply what has been learned in the past to new data using l
 ### Unsupervised machine learning 
 
 These algorithms are used when the information used to train is neither classified nor labeled. Unsupervised learning studies how systems can infer a function to describe a hidden structure from unlabeled data. The system doesn’t figure out the right output, but it explores the data and can draw inferences from datasets to describe hidden structures from unlabeled data.
-![Types of Unsupervised learning](assets/ml_algo_3.svg)
+![Types of Unsupervised learning](edited_assets/ml_3.svg)
 
 ### Reinforcement machine learning 
 
 These algorithms are learning methods that interacts with its environment by producing actions and discovers errors or rewards. Trial and error search and delayed reward are the most relevant characteristics of reinforcement learning. This method allows machines and software agents to automatically determine the ideal behavior within a specific context in order to maximize its performance. Simple reward feedback is required for the agent to learn which action is best; this is known as the reinforcement signal.
 
-![Types of Reinforcement Learning](assets/ml_algo_4.svg)
+![Types of Reinforcement Learning](edited_assets/ml_4.svg)
 
 ## Other Machine learning Algorithms
 
@@ -282,6 +282,146 @@ It is also important to note that deep learning requires much powerful hardware 
 
 ![Neural Networks Diagram](assets/neural_network_1.svg)
 
+## How artificial Intelligence will transform Business
 
+Many people still associate artificial intelligence with science fiction dystopias, but that characterization is waning as artificial intelligence develops and becomes more commonplace in our daily lives. 
 
+While artificial intelligence's acceptance in mainstream society is a new phenomenon, it is not a new concept. The modern field of artificial intelligence came into existence in 1956, but it took decades of work to make significant progress toward developing an artificial intelligence system and making it a technological reality.
+
+In business, artificial intelligence has a wide range of uses. In fact, most of us interact with artificial intelligence in some form or another on a daily basis. From the mundane to the breathtaking, artificial intelligence is already disrupting virtually every business process in every industry. As artificial intelligence technologies proliferate, they are becoming an imperative for businesses that want to maintain a competitive edge.
+
+Rather than serving as a replacement for human intelligence and ingenuity, artificial intelligence is generally seen as a supporting tool. Although artificial intelligence currently has a difficult time completing commonsense tasks in the real world, it is adept at processing and analyzing troves of data far more quickly than a human brain could. Artificial intelligence software can then return with synthesized courses of action and present them to the human user. In this way, humans can use artificial intelligence to help game out possible consequences of each action and streamline the decision-making process.
+
+"Artificial intelligence is kind of the second coming of software," said Amir Husain, founder and CEO of machine learning company SparkCognition. "It's a form of software that makes decisions on its own, that's able to act even in situations not foreseen by the programmers. Artificial intelligence has a wider latitude of decision-making ability as opposed to traditional software."
+
+Those traits make artificial intelligence highly valuable throughout many industries, whether it's simply helping visitors and staff make their way around a corporate campus efficiently or performing a task as complex as monitoring a wind turbine to predict when it will need repairs.
+
+Machine learning is used often in systems that capture vast amounts of data. For example, smart energy management systems collect data from sensors affixed to various assets. The troves of data are then contextualized by machine learning algorithms and delivered to human decision-makers to better understand energy usage and maintenance demands.
+
+Artificial intelligence is even an indispensable ally when it comes to looking for holes in computer network defenses, Husain said.
+
+"You really can't have enough cybersecurity experts to look at these problems, because of scale and increasing complexity," he said. "Artificial intelligence is playing an increasing role here as well."
+
+Artificial intelligence is also changing customer relationship management (CRM) systems. Software like Salesforce or Zoho requires heavy human intervention to remain up to date and accurate. But when you apply artificial intelligence to these platforms, a normal CRM system transforms into a self-updating, auto-correcting system that stays on top of your relationship management for you. [For those in brand-new companies, read our report on CRM tools for startups.]
+
+Another example of artificial intelligence's versatility is within the financial sector. Dr. Hossein Rahnama, founder and CEO of artificial intelligence concierge company Flybits and visiting professor at the Massachusetts Institute of Technology, worked with TD Bank to integrate artificial intelligence into regular banking operations, such as mortgage loans.
+
+"Using this technology, if you have a mortgage with the bank and it's up for renewal in 90 days or less … if you're walking by a branch, you get a personalized message inviting you to go to the branch and renew purchase," Rahnama said. "If you're looking at a property for sale and you spend more than 10 minutes there, it will send you a possible mortgage offer.
+
+"We're no longer expecting the user to constantly be on a search box Googling what they need," he added. "The paradigm is shifting as to how the right information finds the right user at the right time."
+
+## The future of Artificial Intelligence
+So, how might artificial intelligence be used in the future? It's hard to say how the technology will develop, but most experts see those "commonsense" tasks becoming even easier for computers to process. That means robots will become extremely useful in day-to-day life.
+
+"AI is starting to make what was once considered impossible possible, like driverless cars," said Russell Glenister, CEO and founder of Curation Zone. "Driverless cars are only a reality because of access to training data and fast GPUs, which are both key enablers. To train driverless cars, an enormous amount of accurate data is required, and speed is key to undertake the training. Five years ago, the processors were too slow, but the introduction of GPUs made it all possible."
+
+Glenister said GPUs are only going to get faster, improving the applications of artificial intelligence software across the board.
+**"Fast processes and lots of clean data are key to the success of AI,"** he said.
+
+Other analysts, like co-founder and CTO of Nara Logics Dr. Nathan Wilson, said they see artificial intelligence on the cusp of revolutionizing familiar activities, such as dining. Wilson predicted that artificial intelligence could be used by a restaurant, for example, to decide which music to play based on the interests of the guests in attendance. Artificial intelligence could even alter the appearance of the wallpaper based on what the technology anticipates the aesthetic preferences of the crowd might be.
+
+If that isn't far-out enough for you, Rahnama predicted that artificial intelligence will take digital technology out of the two-dimensional, screen-imprisoned form to which people have grown accustomed. Instead, the primary user interface will become the physical environment surrounding an individual.
+
+"We've always relied on a two-dimensional display to play a game or interact with a webpage or read an e-book," Rahnama said. "What's going to happen now with artificial intelligence and a combination of [the internet of things] is that the display won't be the main interface – the environment will be. You'll see people designing experiences around them, whether it's in connected buildings or connected boardrooms. These will be 3D experiences you can actually feel." 
+## What does Artificial Intelligence mean for the worker?
+With all these new artificial intelligence use cases comes the daunting question of whether machines will force humans into obsolescence. The jury is still out: Some experts vehemently deny that artificial intelligence will automate so many jobs that millions of people find themselves unemployed, while other experts see it as a pressing problem.
+
+"The structure of the workforce is changing, but I don't think artificial intelligence is essentially replacing jobs," Rahnama said. "It allows us to really create a knowledge-based economy and leverage that to create better automation for a better form of life. It might be a little bit theoretical, but I think if you have to worry about artificial intelligence and robots replacing our jobs, it's probably algorithms replacing white-collar jobs such as business analysts, hedge fund managers and lawyers."
+
+Wilson said the shift toward artificial intelligence-based systems will likely cause the economy to add jobs that facilitate the transition.
+
+"Artificial intelligence will create more wealth than it destroys," Wilson said, "but it will not be equitably distributed, especially at first. The changes will be subliminally felt and not overt. [For example,] a tax accountant won't one day receive a pink slip and meet the robot that is now going to sit at her desk. Rather, the next time the tax accountant applies for a job, it will be a bit harder to find one."
+
+Wilson said he anticipates that artificial intelligence in the workplace will fragment long-standing workflows, creating many human jobs to integrate those workflows. Other experts, like Husain, are not as sure about where the new jobs will come from once artificial intelligence becomes ubiquitous.
+
+"[In the past,] there were opportunities to move from farming to manufacturing to services," Husain said. "Now, that's not the case. Why? Industry has been completely robotized, and we see that automation makes more sense economically."
+
+Husain pointed to self-driving trucks and artificial intelligence concierges like Siri and Cortana as examples, stating that as these technologies improve, widespread use could eliminate as many as 8 million jobs in the U.S. alone.
+
+"When all these jobs start going away, we need to ask, 'What is it that makes us productive? What does productivity mean?'" Husain said. "Now we're confronting the changing reality and questioning society's underlying assumptions. We must really think about this and decide what makes us productive and what is the value of people in society. We need to have this debate and have it quickly, because the technology won't wait for us."
+
+Whether rosy or rocky, the future is coming quickly, and artificial intelligence will certainly be a part of it. As this technology develops, the world will see new startups, numerous business applications and consumer uses, as well as the displacement of certain jobs and the creation of entirely new ones. Along with the internet of things, artificial intelligence has the potential to dramatically remake the economy, but its exact impact remains to be seen.
+
+# What makes a Company an AI Comapny?
+Following the steps given below:
+
+1. Strategic data acquisition
+
+2. Unified datawarehouse
+
+3. Pervasive automation
+
+4. New roles such as MLE 
+
+Artificial Intelligence software, by the leading artificial intelligence companies, is a fast-growing market within computer science that focuses on creating and providing intelligent problem-solving solutions. A.I.
+
+## 1. Strategic Data Acquisition
+
+Despite the immense economic success of Google, Facebook or Amazon and the hype surrounding AI and machine learning, the topic of strategic data acquisition is usually still underestimated.
+
+### The value of data
+Data has a value. In times in which algorithmic models automatically control processes and provide recommendations for optimal customer acquisition or customer value optimization, data has become a central value driver and thus a relevant asset. Especially behavioural data of consumers in areas such as search or movement have become of great interest. Only the pricing of data is an unsolved problem, which leads to an overall market instability and allows extreme monopolization or oligopolization — publicly often discussed referreing to GAFA (Google, Amazon, Facebook, Apple).
+
+Adam Smith’s “invisible hand” of the market does not intervene if the unfairness of the price is not recognized by the market at all. This is rather a methodological failure than a reproach to the data monopolies. In addition to that, regulations in this area are extremely complex since the framework conditions change almost daily as a result of technological innovation.
+How is the fair value of data to be determined? Three basic approaches can be found, but none of them is mature and offers an optimal solution for all applications.
+
+#### 1) Cost-based approach: 
+The value of a data set is determined by the costs necessary for its creation. This approach is strongly limited, because on the one hand it does not reflect the actual value resulting from the analysis and processing of data, and on the other hand it primarily prices infrastructure costs (storage, processing and costs of data measurement) that are neither stable in themselves nor comparable among different data types.
+#### 2) Market-based approach: 
+The second approach looks for benchmark figures in the market. Here, too, the use is severely limited. Very few data offerings are comparable one-to-one, and even rarer is a price transparency in a global data market. The approach may gain importance in the future, but is currently hardly practicable.
+#### 3) Income-based approach: 
+The data value is a projection of the future cash flow derived from the data asset. This approach is suitable for niche applications that already have a proven business model. However, it is by no means a general solution for all data sets that occur in the scientific and business world. In addition, projections of innovative business models are fraught with high uncertainty.
+
+What is the conclusion to be drawn from this situation? An exact pricing for own data assets as well as the determination of a fair price for the acquisition of data is almost impossible. It is important to closely observe developments and concept ideas in this area and to primarily create an indicative framework for one’s own strategy, which at least creates references for future decisions with the help of approximate values and comparisons.
+
+### 13 Dimensions for Evaluating Strategic Data Acquisition
+If strategic data acquisition is the one success criterion for future business models, what does a practical evaluation of the relevant data look like? No matter if startup, corporate or mid-sized company — everyone has to think about the problem to be solved, how the technical implementation can look like, which data is needed and whether this will generate sufficient differentiation and knowledge to create a sustainable, profitable business.
+
+The following morphological matrix shall be a first structural design to approach these questions. The ultimate goal is to further develop the approach in such a way that a complete and viable evaluation framework is created, which tests a data-based business model (purely functional) for the three main criteria of strategic data acquisition:
+
+1. Data acquisition costs
+
+2. Uniqueness of the data
+
+3. Resulting data value
+
+Without suggesting any scientific evidence, all three criteria seem to be positively correlated at the first glance. 
+
+The dimensions are divided into six core questions:
+1) WHY — Business Challenge
+
+For what purpose should the data be used?
+
+2) HOW — Data Science Challenge, Data Engineering Challenge and Data Collection Method. Data Acquisition Model, Data Access
+
+How do I translate the business challenge into a data science problem, how do I collect suitable data, how do I prepare it accordingly and how can I access it?
+
+3) WHAT — Data Objective, Data Typology, Data Format, Data Scope
+
+What kind of data does my concept structurally build on, what format and 
+what scope does the data set have?
+
+4) WHEN — Data Capturing Frequency
+
+How regularly do I receive new and current data?
+
+5) WHERE — Data Origin
+
+Where did the data originally come from?
+
+6) WHO — Data Uniqueness
+
+Who else has the same/comparable data besides me?
+
+For each dimension there are different characteristic values, which ideally should not overlap but in sum cover the complete option space. For some dimensions, however, several characteristic values can be effective at the same time. This form of structuring, which was actually developed as a creativity technique, should ultimately help in the evaluation of data-based business models. Not as a panacea, but as a building block to evaluate the topic of strategic data acquisition in a structured way. The result is no monetary comparative value for data sets or business models. However, a comparability of approaches emerges and different strengths and weaknesses become visible.
+
+The future ambition of this approach is it to develop a scoring model behind the characteristic values, which pays in on the three core criteria and thereby allows a comparison of concepts in simplistic form. Any combination of characteristics would receive an individual score in the dimensions of acquisition costs, data value and uniqueness.
+
+### Unified Datawarehouse
+As organizations go through digital transformation, business leaders are becoming aware of the benefits of governance across their data and AI models, whether on premises or in multicloud environments. By focusing on
+core governance practices, organizations are preparing their data and AI not only for analytical processing and insights, but also for compliance readiness with the regulations they face. While the data volumes are
+extensive, machine learning and artificial intelligence practices help augment human scale and intelligence in such tasks as data mapping, cataloging, matching large data volumes and sustaining data quality.
+
+Business leaders with vision understand that taking the time to build a solid UGI foundation will pay significant dividends today and in the near future. They realize their organizations will gain important advantages if
+they embrace governance as an enabler for business optimization, innovation and compliance across data and AI initiatives. It’s critical to use solutions that encompass data operations management from creation to consumption. Streamlining these operations requires economies of scope, scale and sharing.
 

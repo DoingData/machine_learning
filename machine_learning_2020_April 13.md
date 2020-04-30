@@ -95,3 +95,5 @@ The best approximation is then that which minimizes the sum of squared differenc
 
 In statistics, linear least squares problems correspond to a particularly important type of statistical model called linear regression which arises as a particular form of regression analysis. One basic form of such a model is an ordinary least squares model. The present article concentrates on the mathematical aspects of linear least squares problems, with discussion of the formulation and interpretation of statistical regression models and statistical inferences related to these being dealt with in the articles just mentioned. See outline of regression analysis for an outline of the topic.
 
+![Sample Diagram](assets\linear_reg.svg)
+
