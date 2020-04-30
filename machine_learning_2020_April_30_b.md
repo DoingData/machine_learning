@@ -1,51 +1,96 @@
 # Machine Learning
 
-Table of Contents
+
+
+**Table of Contents**
+
 =================
 
-   * [Machine Learning](#machine-learning)
-      * [History](#history)
-      * [Time Line of Machine Learning History](#time-line-of-machine-learning-history)
-      * [Definition](#definition)
-      * [Types of Machine Learning](#types-of-machine-learning)
-         * [Supervised machine learning](#supervised-machine-learning)
-            * [Examples](#examples)
-         * [Unsupervised machine learning](#unsupervised-machine-learning)
-         * [Reinforcement machine learning](#reinforcement-machine-learning)
-      * [Other Machine learning Algorithms](#other-machine-learning-algorithms)
-         * [Nearest Neighbour Classification](#nearest-neighbour-classification)
-   * [Linear Regression](#linear-regression)
-      * [Least-Squares Regression](#least-squares-regression)
-         * [Explanation](#explanation)
-   * [What is Artificial Intelligence (AI)?](#what-is-artificial-intelligence-ai)
-      * [Applications of Artificial Intelligence](#applications-of-artificial-intelligence)
-      * [Types of Artificial Intelligence](#types-of-artificial-intelligence)
-         * [Artificial Narrow Intelligence (ANI) or Weak AI](#artificial-narrow-intelligence-ani-or-weak-ai)
-         * [Artificial General Intelligence](#artificial-general-intelligence)
-   * [Current Uses of AI:](#current-uses-of-ai)
-      * [Email filtering:](#email-filtering)
-      * [Personalization:](#personalization)
-      * [Fraud detection:](#fraud-detection)
-      * [Speech recognition:](#speech-recognition)
-   * [What is Data in machine learning?](#what-is-data-in-machine-learning)
-   * [Data Science VS Machine Learning](#data-science-vs-machine-learning)
-      * [Example of ML vs DS in the online ad industry](#example-of-ml-vs-ds-in-the-online-ad-industry)
-      * [Data Science](#data-science)
-      * [Artificial Intelligence](#artificial-intelligence)
-      * [Machine Learning](#machine-learning-1)
-      * [Deep Learning](#deep-learning)
-      * [How artificial Intelligence will transform Business](#how-artificial-intelligence-will-transform-business)
-      * [The future of Artificial Intelligence](#the-future-of-artificial-intelligence)
-      * [What does Artificial Intelligence mean for the worker?](#what-does-artificial-intelligence-mean-for-the-worker)
-   * [What makes a Company an AI Comapny?](#what-makes-a-company-an-ai-comapny)
-      * [1. Strategic Data Acquisition](#1-strategic-data-acquisition)
-         * [The value of data](#the-value-of-data)
-            * [1) Cost-based approach:](#1-cost-based-approach)
-            * [2) Market-based approach:](#2-market-based-approach)
-            * [3) Income-based approach:](#3-income-based-approach)
-         * [13 Dimensions for Evaluating Strategic Data Acquisition](#13-dimensions-for-evaluating-strategic-data-acquisition)
-      * [Unified Dataware House](#unified-dataware-house)
-      * [Pervasive Automation](#pervasive-automation)
+
+
+  * [Machine Learning](#machine-learning)
+
+   * [History](#history)
+
+   * [Time Line of Machine Learning History](#time-line-of-machine-learning-history)
+
+   * [Definition](#definition)
+
+   * [Types of Machine Learning](#types-of-machine-learning)
+     * [Supervised machine learning](#supervised-machine-learning)
+​     
+     * [Examples](#examples)
+
+     * [Unsupervised machine learning](#unsupervised-machine-learning)
+
+     * [Reinforcement machine learning](#reinforcement-machine-learning)
+
+     * [Other Machine learning Algorithms](#other-machine-learning-algorithms)
+
+       * [Nearest Neighbour Classification](#nearest-neighbour-classification)
+ 
+       * [Linear Regression](#linear-regression)
+
+       * [Least-Squares Regression](#least-squares-regression)
+
+       * [Explanation](#explanation)
+
+  * [What is Artificial Intelligence (AI)?](#what-is-artificial-intelligence-ai)
+
+   * [Applications of Artificial Intelligence](#applications-of-artificial-intelligence)
+
+   * [Types of Artificial Intelligence](#types-of-artificial-intelligence)
+    
+     * [Artificial Narrow Intelligence (ANI) or Weak AI](#artificial-narrow-intelligence-ani-or-weak-ai)
+
+     * [Artificial General Intelligence](#artificial-general-intelligence)
+
+  * [Current Uses of AI:](#current-uses-of-ai)
+
+    * [Email filtering:](#email-filtering)
+
+    * [Personalization:](#personalization)
+
+    * [Fraud detection:](#fraud-detection)
+
+    * [Speech recognition:](#speech-recognition)
+
+  * [What is Data in machine learning?](#what-is-data-in-machine-learning)
+
+  * [Data Science VS Machine Learning](#data-science-vs-machine-learning)
+
+   * [Example of ML vs DS in the online ad industry](#example-of-ml-vs-ds-in-the-online-ad-industry)
+
+   * [Data Science](#data-science)
+
+   * [Artificial Intelligence](#artificial-intelligence)
+
+   * [Machine Learning](#machine-learning-1)
+
+   * [Deep Learning](#deep-learning)
+
+   * [How artificial Intelligence will transform Business](#how-artificial-intelligence-will-transform-business)
+
+   * [The future of Artificial Intelligence](#the-future-of-artificial-intelligence)
+
+   * [What does Artificial Intelligence mean for the worker?](#what-does-artificial-intelligence-mean-for-the-worker)
+
+  * [What makes a Company an AI Comapny?](#what-makes-a-company-an-ai-comapny)
+
+   * [1. Strategic Data Acquisition](#1-strategic-data-acquisition)
+
+     * [The value of data](#the-value-of-data)
+
+       * [1) Cost-based approach:](#1-cost-based-approach)
+
+       * [2) Market-based approach:](#2-market-based-approach)
+
+       * [3) Income-based approach:](#3-income-based-approach)
+   * [13 Dimensions for Evaluating Strategic Data Acquisition](#13-dimensions-for-evaluating-strategic-data-acquisition)
+
+   * [Unified Dataware House](#unified-dataware-house)
+
+   * [Pervasive Automation](#pervasive-automation)
 
 ## History
 In 1642, one of the first mechanical adding machine was designed by **Blaise Pascal**. It used a system of gears and wheels similar to those found in odometers and other counting devices. Pascal's adder also known as **Pascaline**, could both add and subtract and was invented to calculate taxes.
