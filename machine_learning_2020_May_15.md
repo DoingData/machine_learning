@@ -293,6 +293,9 @@ Companies are using data science to build recommendation engines, and predicting
 There is also something called as prescriptive analytics in data science, which does pretty much the same predictions that we talked about in the rich tourist example above. But as an added benefit, prescriptive analytics will also tell you what kind of luxury tours to Venice a person might be interested in. For example, one person might want to fly first class but would be fine with a three star accommodation, whereas another person could be ready to fly economy but definitely needs the most luxurious stay and cultural experience. So even though both these people will be your rich clients, both of them have different requirements. So you can use prescriptive analytics for this.
 
 You might be wondering, hey, that sounds a lot like artificial intelligence. And you’re not entirely wrong, actually. Because running these machine learning algorithms on huge datasets is again a part of data science. Machine learning is used in data science to make predictions and also to discover patterns in the data. This again sounds like we’re adding intelligence to our system. That must be artificial intelligence. 
+
+
+![Venn Diagram](assets\venn_diag.svg)
 ## Artificial Intelligence
 Artificial intelligence is the ability that can be imparted to computers which enables these machines to understand data, learn from the data, and make decisions based on patterns hidden in the data, or inferences that could otherwise be very difficult (to almost impossible) for humans to make manually. AI also enables machines to adjust their “knowledge” based on new inputs that were not part of the data used for training these machines.
 
@@ -476,5 +479,32 @@ This is a huge blind spot for executives who are ultimately on the hook for the 
 It makes sense that to ascertain an organization's level of automation, it's critical to know what is in the IT estate. Yet, many enterprise-level organizations can't assess the success of automation because they have limited visibility into their IT estates.
 
 It's worth noting that many people think they know what they have, but when the auditor comes knocking, they have to shut down the business to run their inventory — either manually or with various tools. People may know what they have at a fixed point in time, like after an audit, but knowing what the business has on a continual basis is a major challenge.
+
 **For larger organizations, no more than 50 percent of respondents believe that any individual process is fully or mostly automated.**
 
+## New Roles as ME
+
+Many businesses and individuals are optimistic that this AI-driven shift in the workplace will result in more jobs being created than lost. As we develop innovative technologies, AI will have a positive impact on our economy by creating jobs that require the skill set to implement new systems. 80% of respondents in the EY survey said it was the lack of these skills that was the biggest challenge when employing AI programs.
+
+It is likely that artificial intelligence will soon replace jobs involving repetitive or basic problem-solving tasks, and even go beyond current human capability. AI systems will be making decisions instead of humans in industrial settings, customer service roles and within financial institutions. Automated decisioning will be responsible for tasks such as approving loans, deciding whether a customer should be on boarded or identifying corruption and financial crime.
+
+Organisations will benefit from an increase in productivity as a result of greater automation, meaning more revenue will generated. This thus provides additional money to spend on supporting jobs in the services sector.
+
+Due to the vast array of jobs that could be impacted by AI, it is fundamental to address the potential pitfalls of these technologies.
+
+Business need to overcome the trust and bias issues surrounding AI by achieving an effective and successful implementation that makes it possible for everyone to benefit.
+
+Governments must ensure that gains from AI are shared widely across society to prevent social inequality between those affected and unaffected by these developments. For example, this could be through increased investment into training.
+
+With the additional cost-savings from implementing AI systems, employers should also focus on upskilling their current employees.
+
+To properly leverage the power of AI, we need to address the issue at an educational level, as well as in business. Education systems needs to focus on training students in roles directly associated to working with AI, including programmers and data analysts. This requires more emphasis to be put on STEM subjects (science, technology, engineering and mathematics).
+Also, subjects centered around building creative, social and emotional skills should be encouraged. Whilst artificial intelligence will be more productive than human workers for repetitive tasks, humans will always outperform machines in jobs requiring relationship-building and imagination.
+
+Artificial intelligence will change our world both inside and outside the workplace. 
+
+Instead of focusing on the fear surrounding automation, businesses need to embrace these new technologies to ensure they implement the most effective AI systems to enhance and compliment human intelligence.
+
+Basics of Python
+
+My First Assignment
